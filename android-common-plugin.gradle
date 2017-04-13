@@ -4,3 +4,7 @@ ext {
     minSdkVersion = 17
     targetSdkVersion = 19
 }
+
+ext.deps = [
+	hamcrestall : 'org.hamcrest:hamcrest-all:1.3',
+]
