@@ -13,22 +13,40 @@ ext.deps = [
     hamcrestall              	: 'org.hamcrest:hamcrest-all:1.3',
     
 	// Android Test Compile	
-    supportespresso      		: 'com.android.support.test.espresso:espresso-core:2.2.2',
+	supportespresso      		: 'com.android.support.test.espresso:espresso-core:2.2.2',
 
     // Debug Compile
     amitshekhardebugdb       	: 'com.amitshekhar.android:debug-db:1.0.0',
 
-    // Dependency Libraries
+	// Dependency Libraries
+	// support
+    support                  	: 'com.android.support:support-v4:25.1.0',
 	supportrecyclerview      	: 'com.android.support:recyclerview-v7:25.1.0',
     supportappcompat         	: 'com.android.support:appcompat-v7:25.1.0',
     supportdesign            	: 'com.android.support:design:25.1.0',
-    support                  	: 'com.android.support:support-v4:25.1.0',
     supportespresso          	: 'com.android.support.test.espresso:espresso-core:2.2.2',
+    // butterknife
+  	butterknife          		: 'com.jakewharton:butterknife:8.5.1',
+  	butterknifecompile   		: 'com.jakewharton:butterknife-compiler:8.5.1',
+    // retrofit
+    retrofit             		: 'com.squareup.retrofit2:retrofit:2.1.0',
+	retrofitrofitconvertergson	: 'com.squareup.retrofit2:converter-gson:2.1.0',
+	retrofitadapterrxjava		: 'com.squareup.retrofit2:adapter-rxjava:2.1.0',
+	// rxjava
+	rxjava               		: 'io.reactivex:rxjava:1.2.5',
+	rxandroid            		: 'io.reactivex:rxandroid:1.2.1',
+	rxbinding            		: 'com.jakewharton.rxbinding:rxbinding:1.0.0',
+	// commons
+	commonsvalidator     		: 'commons-validator:commons-validator:1.6',
+	commonscodec         		: 'commons-codec:commons-codec:1.10',
+    commonsio                 	: 'commons-io:commons-io:2.5',
+    // others
     googlegson               	: 'com.google.code.gson:gson:2.3',
     galleryfinal             	: 'cn.finalteam:galleryfinal:1.4.8.7',
     rxgalleryfinal           	: 'cn.finalteam.rxgalleryfinal:library:0.0.3',
-    squareuppicasso          	: 'com.squareup.picasso:picasso:2.5.2',
+	squareuppicasso          	: 'com.squareup.picasso:picasso:2.5.2',
     picasso2okhttp3downloader	: 'com.jakewharton.picasso:picasso2-okhttp3-downloader:1.1.0',
     zhybaseadapter           	: 'com.zhy:base-adapter:3.0.3',
-    commonsio                 	: 'commons-io:commons-io:2.5',
+	greendao             : 'org.greenrobot:greendao:3.2.0'
+
 ]
