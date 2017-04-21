@@ -41,6 +41,9 @@ ext.deps = [
 	commonsvalidator     		: 'commons-validator:commons-validator:1.6',
 	commonscodec         		: 'commons-codec:commons-codec:1.10',
     	commonsio                 	: 'commons-io:commons-io:2.5',
+	// greenrobot
+	eventbus			: 'org.greenrobot:eventbus:3.0.0',
+	greendao             		: 'org.greenrobot:greendao:3.2.0',
     	// others
     	googlegson               	: 'com.google.code.gson:gson:2.3',
     	galleryfinal             	: 'cn.finalteam:galleryfinal:1.4.8.7',
@@ -49,6 +52,5 @@ ext.deps = [
     	picasso2okhttp3downloader	: 'com.jakewharton.picasso:picasso2-okhttp3-downloader:1.1.0',
     	zhybaseadapter           	: 'com.zhy:base-adapter:3.0.3',
  	zhybaservadapter		: 'com.zhy:base-rvadapter:3.0.3',
-	greendao             		: 'org.greenrobot:greendao:3.2.0'
 
 ]
