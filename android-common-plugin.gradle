@@ -29,7 +29,7 @@ ext.deps = [
   	butterknifecompile   		: 'com.jakewharton:butterknife-compiler:8.5.1',
     	// retrofit
     	retrofit             		: 'com.squareup.retrofit2:retrofit:2.1.0',
-	retrofitrofitconvertergson	: 'com.squareup.retrofit2:converter-gson:2.1.0',
+	retrofitconvertergson		: 'com.squareup.retrofit2:converter-gson:2.1.0',
 	retrofitadapterrxjava		: 'com.squareup.retrofit2:adapter-rxjava:2.1.0',
 	// rxjava
 	rxjava               		: 'io.reactivex:rxjava:1.2.5',
