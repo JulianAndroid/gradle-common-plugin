@@ -53,6 +53,7 @@ ext.deps = [
     supportappcompat            : 'com.android.support:appcompat-v7:26.0.0-alpha1',
     supportdesign               : 'com.android.support:design:26.0.0-alpha1',
     supportespresso             : 'com.android.support.test.espresso:espresso-core:2.2.2',
+    constraintlayout           : 'com.android.support.constraint:constraint-layout:1.0.2',
     
     // butterknife
     butterknife                 : 'com.jakewharton:butterknife:8.5.1',
