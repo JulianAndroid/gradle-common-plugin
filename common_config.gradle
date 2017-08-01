@@ -80,7 +80,7 @@ ext.deps = [
     greendao                    : 'org.greenrobot:greendao:3.2.0',
 
     // julian
-    julianmvp                   : 'io.julain:mvp:1.0.6',
+    julianmvp                   : 'io.julian:mvp:1.0.6',
     juliancommon                : 'io.julian:common:1.0.8',
 
     // others
