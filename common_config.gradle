@@ -5,10 +5,10 @@ project.ext {
     javaMaxHeapSize = '4G'
 
     // Android编译版本相关
-    compileSdkVersion = 23
-    buildToolsVersion = '23.0.3'
+    compileSdkVersion = 24
+    buildToolsVersion = '24.0.2'
     minSdkVersion = 14
-    targetSdkVersion = 23
+    targetSdkVersion = 24
 
     // 混淆相关
     minifyEnable = true
